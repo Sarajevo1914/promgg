@@ -1,0 +1,56 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+14
+Numero_Obreros
+1
+5
+22
+Numero_Hora_Trabajadas
+1
+0
+12
+Total_Nomina
+1
+0
+9
+1
+18
+Numero_Obreros > 0
+4
+1
+94
+'Ingrese la cantidad de horas trabajadas en la nomica por el total ',Numero_Obreros,' obreros'
+5
+1
+22
+Numero_Hora_Trabajadas
+6
+3
+7
+Salario
+30
+Numero_Hora_Trabajadas * 30000
+12
+Total_Nomina
+22
+Total_Nomina + Salario
+14
+Numero_Obreros
+18
+Numero_Obreros - 1
+4
+1
+33
+'El salario final es de ',Salario
+11
+4
+1
+70
+'Total Nomina a pagar ',Total_Nomina,' por ',Numero_Obreros,' obreros'
+1

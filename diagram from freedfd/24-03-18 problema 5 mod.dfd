@@ -1,0 +1,49 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+25
+'Ingrese el tiempo de t1'
+5
+1
+2
+t1
+4
+1
+25
+'ingrese el tiempo de t2'
+5
+1
+2
+t2
+7
+1
+1
+5
+t1<t2
+4
+1
+8
+'t1 win'
+13
+7
+1
+1
+5
+t1>t2
+4
+1
+8
+'t2 win'
+13
+4
+1
+15
+'it\s a draw11'
+13
+13
+1

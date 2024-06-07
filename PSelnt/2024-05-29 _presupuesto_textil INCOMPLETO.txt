@@ -1,0 +1,41 @@
+costo prenda
+	talles 1-5 value: xxx
+	talles especiales 6-8-10 value: xxx
+	
+marguen sobre prenda
+	30 %
+	
+impresion DTF costo = 400 by metro lineal
+
+logistica = 20% de la suma prendas e impresion
+
+numero de disenos por prenda
+
+total del presupuesto
+
+
+
+---- 
+
+prendasN = 5 (numero de prendas a realizar)
+
+prendaCost = xxx
+
+estampaTamano = 0.40 mt
+
+printDTF = 400 by metro
+
+marguen por prenda = 30% (multiplicar prendaCost by 30% for all prendas por hacer)
+
+
+DTFcost = impresionDTF * prendasN * prenda2
+
+estampa cost = 500
+
+prenda total cost = (prenda2 * prendasN * prendaCost) * 1.30 + (DTFcost)
+
+logistica = 20% + (suma de todas las prendas y costos) + impresion(impresionDTF(find cost by mts2))
+
+
+presupuesto = logistica + mano de obra
+

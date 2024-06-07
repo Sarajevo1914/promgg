@@ -1,0 +1,73 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+34
+'ingrese la cantidad de empkeados'
+5
+1
+2
+ce
+4
+1
+20
+'ingrese valor hora'
+5
+1
+2
+vh
+6
+2
+5
+total
+1
+0
+1
+i
+1
+1
+8
+1
+1
+i
+1
+1
+1
+1
+2
+ce
+1
+1
+1
+4
+1
+12
+'ingrese ht'
+5
+1
+2
+ht
+6
+2
+6
+sueldo
+7
+ht * vh
+5
+total
+14
+total + sueldo
+4
+1
+23
+'tu sueldo ese ',sueldo
+10
+4
+1
+22
+'total a pagar ',total
+1

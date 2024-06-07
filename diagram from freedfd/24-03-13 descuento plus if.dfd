@@ -1,0 +1,60 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+33
+'Ingresar el precio del producto'
+5
+1
+6
+Precio
+4
+1
+22
+'Ingresar la cantidad'
+5
+1
+8
+Cantidad
+6
+1
+7
+Importe
+15
+Precio*Cantidad
+7
+1
+1
+15
+Importe > 10000
+6
+3
+7
+Importe
+15
+Precio*Cantidad
+4
+Desc
+14
+Importe*10/100
+5
+Final
+14
+Importe - Desc
+13
+6
+1
+5
+Final
+7
+Importe
+13
+4
+1
+22
+'Total a pagar ',Final
+1

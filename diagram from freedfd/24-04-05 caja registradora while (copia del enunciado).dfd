@@ -1,0 +1,104 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+9
+Sub_Total
+1
+0
+5
+Total
+1
+0
+6
+Codigo
+1
+0
+6
+2
+6
+Precio
+1
+0
+3
+iva
+1
+0
+4
+1
+32
+'Ingrese el codigo del producto'
+5
+1
+6
+Codigo
+4
+1
+19
+'Ingrese el precio'
+5
+1
+6
+Precio
+4
+1
+47
+'Codigo del producto ',Codigo,' precio ',Precio
+9
+1
+11
+Codigo != 0
+6
+1
+9
+Sub_Total
+18
+Sub_Total + Precio
+4
+1
+47
+'Codigo del producto ',Codigo,' precio ',Precio
+4
+1
+32
+'Ingrese el codigo del producto'
+5
+1
+6
+Codigo
+4
+1
+19
+'Ingrese el precio'
+5
+1
+6
+Precio
+11
+6
+2
+3
+iva
+16
+Sub_Total * 0.21
+5
+Total
+15
+Sub_Total + iva
+4
+1
+22
+'Sub Total ',Sub_Total
+4
+1
+10
+'IVA ',iva
+4
+1
+14
+'Total ',Total
+1

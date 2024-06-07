@@ -1,0 +1,68 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+18
+'press 1 to start'
+5
+1
+8
+continue
+4
+1
+12
+'ingrese vh'
+5
+1
+2
+vh
+6
+1
+5
+total
+1
+0
+9
+1
+12
+continue = 1
+4
+1
+4
+'ht'
+5
+1
+2
+ht
+6
+2
+6
+sueldo
+7
+vh * ht
+5
+total
+14
+total + sueldo
+4
+1
+25
+'tu sueldo es de ',sueldo
+4
+1
+45
+'press 1 for continue or any number to close'
+5
+1
+8
+continue
+11
+4
+1
+22
+'total a pagar ',total
+1

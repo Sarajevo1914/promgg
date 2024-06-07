@@ -1,0 +1,31 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+2
+pi
+6
+3.1416
+4
+1
+18
+'Ingrese el radio'
+5
+1
+5
+radio
+6
+1
+4
+peri
+14
+2 * pi * radio
+4
+1
+24
+'El perimetro es: ',peri
+1

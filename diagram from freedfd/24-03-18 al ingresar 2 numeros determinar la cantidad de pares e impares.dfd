@@ -1,0 +1,61 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+22
+'ingresar dos numeros'
+5
+1
+2
+n1
+5
+1
+2
+n2
+7
+1
+1
+8
+n1 mod 2
+6
+1
+4
+npar
+2
++1
+13
+6
+1
+6
+nimpar
+2
++1
+13
+7
+0
+1
+8
+n2 mod 2
+6
+1
+4
+npar
+2
++1
+13
+6
+1
+6
+nimpar
+2
++1
+13
+4
+1
+84
+'entre los numeros ingresados hay ',npar,'numeros pares y ',nimpar,'numeros impares'
+1
