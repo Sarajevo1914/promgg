@@ -1,0 +1,22 @@
+package a2024_06_10;
+
+public class iva {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		double iva;
+		double importe;
+		double total;
+		
+		total = importe + importe*iva;
+		importe = 5000;
+		iva = 0.21;
+		
+		System.out.println("El valor final con iva es: " + total);
+		
+		
+		
+	}
+
+}

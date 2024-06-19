@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\TT\Documents\DELGADO MARCOS\.metadata\.plugins\org.eclipse.jdt.core
+1720407726.index
+1865797976.index
+80749766.index

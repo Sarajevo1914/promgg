@@ -1,0 +1,29 @@
+package a2024_06_10;
+
+public class Cuentas {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		double a, b, resultado;		
+		a = 100;
+		b = 200;
+		/* block comment */
+		resultado = a + b;
+		System.out.println("El resultado de a + b es: " + resultado);
+		resultado = a - b;
+		System.out.println("El resultado de a - b es: " + resultado);
+		
+		resultado = a * b;
+		System.out.println("El resultado de a * b es: " + resultado);
+		
+		double div;
+		
+		div = a / b;
+		System.out.println("El resultado de a / b es: " + div);
+		
+		System.out.println(Math.sqrt(a));
+		// output of sqrt(a)
+		
+	}
+
+}
