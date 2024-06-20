@@ -1,0 +1,12 @@
+package a2024_06_10;
+import java.util.Scanner;
+public class Entradas {
+
+	public static void main(String[] args) {
+		int dato = 3;
+		System.out.println(dato);
+		Scanner intro = new Scanner(System.in);
+
+	}
+
+}
