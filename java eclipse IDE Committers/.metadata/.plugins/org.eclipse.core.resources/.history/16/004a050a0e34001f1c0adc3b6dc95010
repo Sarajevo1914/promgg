@@ -1,0 +1,38 @@
+package a2024_06_10;
+import java.util.Scanner;
+
+/* empresa turismo
+ * ofrece paquetes
+ * precio depende de destinos y alojamiento
+ * playa 1200
+ * ciudades coloniales 1000
+ * zonas arqueologicas 900
+ * 
+ * precios son por dia y por individuo
+ * 
+ * paquetes
+ * standar recargo del 0%
+ * superior 10%
+ * super 30%
+ * 
+ * si la estadia es >10 8% off
+ */
+
+public class Turismo {
+
+	public static void main(String[] args) {
+		double tipoD, nivelD, numeroD;
+		
+		Scanner entr = new Scanner(System.in);
+		
+		System.out.println("Ingrese el destino: /n"
+				+ "1 playa 1200 /n"
+				+ "2 ciudades coloniales 1000 /n"
+				+ "3 zonas arqueologicas 900");
+		
+		
+		
+
+	}
+
+}

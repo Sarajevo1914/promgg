@@ -1,0 +1,57 @@
+package a2024_06_10;
+import java.util.Scanner;
+
+/* salon de fiestas
+ * ofrece 3 paquetes
+ * 1 615 por persona
+ * 2 790 por persona
+ * 3 1290 por persona
+ * 
+ * los ninos pagan solo el 60% del costo del paquete
+ * 
+ * si la cantidad de participantes es mayor a 100
+ * se ofrece un descuento del total del 10%
+ * si es superior a 250 es del 15%
+ * 
+ */
+
+public class ProblemaIf {
+	public static void main(String[] args) {
+	
+		double tipoP = 0, adultos = 0, ninos = 0, invitados = 0, precioA = 0, precioN = 0, importeFinal = 0;
+		
+		Scanner entr = new Scanner(System.in);
+	
+		System.out.println("Ingrese el tipo de paquete: 1 615$, 2 790$, 3 1290$");
+		tipoP = entr.nextInt();
+		
+		System.out.println("Ingrese la cantidad de adultos");
+		adultos = entr.nextInt();
+		
+		System.out.println("Ingrese la cantidad de ninos");
+		ninos = entr.nextInt();
+		
+		invitados = adultos + ninos;
+		
+		if(tipoP == 1) {
+			precioA = adultos * 615;
+			precioN = ninos * (615 * 0.60);
+		} else if(tipoP == 2) {
+			precioA = adultos * 790;
+			precioN = ninos * (790 * 0.60);
+		} else if(tipoP == 3) {
+			precioA = adultos * 1290;
+			precioN = ninos * (1290 * 0.60);
+		}
+		
+		if(adultos > 100) {
+			precioA = precioA * 0.10;
+		} else if (adultos > 250) {
+			precioA = precioA * 0.15;
+		}
+		
+		importeFinal = precioA + precioN;
+
+		System.out.println("El importe final es de: " + importeFinal + " con una cantidad de invitados: " + invitados + " con " + adultos + " adultos y con " + ninos + " ninos");
+	}
+}

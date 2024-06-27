@@ -1,0 +1,11 @@
+package a2024_06_10;
+import java.utils.Scanner;
+public class Condicion3 {
+
+	public static void main(String[] args) {
+		
+		Scanner entrada = new Scanner(System.in);
+
+	}
+
+}

@@ -1,0 +1,37 @@
+package a2024_06_10;
+import java.util.Scanner;
+public class Condicion3 {
+
+	public static void main(String[] args) {
+		
+		Scanner entrada = new Scanner(System.in);
+		
+		System.out.println("ingrese medio de pago: efectivo o tarjeta");
+		String pago = entrada.next();
+		
+		System.out.println("ingrese el precio unitario");
+		double precio = entrada.nextDouble();
+		
+		System.out.println("ingrese la cantidad de productos");
+		double cantidad = entrada.nextDouble();
+		
+		double importe = cantidad * precio;
+		
+		double desc
+		if(pago.equalsIgnoreCase("efectivo")) {
+			desc = importe * 0.10;
+		} else {
+			desc = 0;
+		}
+		
+		double total = importe - desc;
+		
+		System.out.println("el total a pagar es de: " + total);
+		
+		
+		
+		
+
+	}
+
+}
